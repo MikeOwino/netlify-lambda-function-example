@@ -5,7 +5,7 @@ const $messageBox = document.getElementById('messageBox');
 const $button = document.querySelector('button');
 
 function resetButtonText() {
-  $button.innerHTML = 'Click to Buy! <strong>$10</strong>';
+  $button.innerHTML = 'Click to Buy! <strong>$1,000</strong>';
 }
 
 const handler = StripeCheckout.configure({
