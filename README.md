@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c9530ef-0935-44e0-b5a4-ac0c6e7e8849/deploy-status)](https://app.netlify.com/sites/hardcore-jepsen-846728/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c9530ef-0935-44e0-b5a4-ac0c6e7e8849/deploy-status)](https://app.netlify.com/sites/cryptopap/deploys)
 
 # Netlify Lambda Function Example
 
